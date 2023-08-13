@@ -11,7 +11,7 @@ import java.util.Scanner;
  * of the numbers entered by the user. These methods are described in further
  * detail in the code below.
  *
- * @author Riley OKeefe (A00460983)
+ * @author Riley OKeefe
  */
 public class Subsequencer {
 
