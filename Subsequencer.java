@@ -105,12 +105,12 @@ public class Subsequencer {
 
     /**
      * This method prints out an introduction, which states what the program
-     * does and how it works, along with the name and A-number of the author.
+     * does and how it works, along with the name of the author.
      */
     public static void introduction() {
         System.out.print("Subsequence Calculator\n"
                 + "----------------------\n\n"
-                + "By Riley OKeefe (A00460983)\n\n"
+                + "By Riley OKeefe \n\n"
                 + "This program calculates all subsequences "
                 + "of a line of numbers you enter.\n"
                 + "Enter an empty line to end the program.");
